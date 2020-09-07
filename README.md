@@ -1,1 +1,3 @@
-# cs320-lab2
+Company name:Legend
+
+Description:Only League of Legends player allowed
